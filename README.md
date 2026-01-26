@@ -1,1 +1,1 @@
-# odin-admin-dashboard
+This is a project to try and work on my css grid skills
