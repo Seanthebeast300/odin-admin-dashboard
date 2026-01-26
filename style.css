@@ -47,3 +47,17 @@ table {
 	border-spacing: 0;
 }
 
+.container {
+    background-color:rgb(185, 215, 241);
+    height: 100vh;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
+
+.header {
+    background-color: red;
+
+    grid-column: 1 / 3;
+}
