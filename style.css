@@ -68,6 +68,17 @@ table {
     grid-row: 1 / 3;
 }
 
+.sidebar-header {
+    height: 75px;
+
+    display: flex;
+}
+
+.sidebar-logo {
+    width: 50px;
+    color: white;
+}
+
 .content {
     background-color: lightpink;
 
